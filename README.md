@@ -1,4 +1,4 @@
-## Hi there 👋
+## Всем привет 👋
 
 <!--
 **artursoul797-commits/artursoul797-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
